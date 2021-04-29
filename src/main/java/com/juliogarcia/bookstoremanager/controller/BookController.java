@@ -6,12 +6,10 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/api/v1/books")
-
-public class BookController {
+class BookController {
 
     @GetMapping
     public String hello() {
-        return "Hello World!";
+        return "Hello Bookstore Manager";
     }
-
 }
