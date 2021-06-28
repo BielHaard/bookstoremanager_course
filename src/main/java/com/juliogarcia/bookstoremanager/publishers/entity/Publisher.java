@@ -1,4 +1,4 @@
-package com.juliogarcia.bookstoremanager.publisher.entity;
+package com.juliogarcia.bookstoremanager.publishers.entity;
 
 import java.time.LocalDate;
 import java.util.List;

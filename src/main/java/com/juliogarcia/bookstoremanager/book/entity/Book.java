@@ -11,7 +11,7 @@ import javax.persistence.ManyToOne;
 
 import com.juliogarcia.bookstoremanager.author.entity.Author;
 import com.juliogarcia.bookstoremanager.entity.Auditable;
-import com.juliogarcia.bookstoremanager.publisher.entity.Publisher;
+import com.juliogarcia.bookstoremanager.publishers.entity.Publisher;
 import com.juliogarcia.bookstoremanager.users.entity.User;
 
 import lombok.Data;
