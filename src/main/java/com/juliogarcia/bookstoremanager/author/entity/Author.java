@@ -20,6 +20,7 @@ import lombok.EqualsAndHashCode;
 @Data
 @Entity
 public class Author extends Auditable {
+
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
